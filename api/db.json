@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "bugra",
+      "salary": "5000",
+      "city": "ıstabul"
+    },
+    {
+      "id": "unique-2",
+      "name": "tugra",
+      "salary": "4000",
+      "city": "ankara"
+    },
+    {
+      "name": "Kemal Buğra",
+      "salary": "18000",
+      "city": "Aydın",
+      "id": "muvVzMt"
+    }
+  ]
+}
